@@ -15,5 +15,5 @@ ADMIN_NAME: First User
 ADMIN_EMAIL: user@example.com
 ADMIN_PASSWORD: changeme
 ROLES: [admin, user]
-EMAIL_ADDRESS: user@example.com
-DOMAIN: example.com
+EMAIL_ADDRESS: hello@peergear.io
+DOMAIN: peergear.io
